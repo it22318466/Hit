@@ -1,3 +1,1 @@
-# Hit the me
-
-print
+# Hit the me print
